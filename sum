@@ -1,0 +1,9 @@
+n=int(input("Enter a number:"))
+s=0
+for i in range(1,n+1):
+  s=s+i
+print("Sum of first",n,"number is",s)
+
+output:
+Enter a number:5
+Sum of first 5 numbers is  15
