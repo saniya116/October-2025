@@ -12,3 +12,7 @@ class ReverseNumber {
         System.out.println("Reversed number: " + rev);
     }
 }
+
+output:
+Enter a number:1234
+reversed number:4321
